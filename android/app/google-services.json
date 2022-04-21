@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "145513428891",
+    "project_id": "hhit-43798",
+    "storage_bucket": "hhit-43798.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:145513428891:android:e71d23b026537c2492d33e",
+        "android_client_info": {
+          "package_name": "com.hhi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "145513428891-dqo1l782oq3u0r2hmd117aau14m1v192.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCtgBA9XKNdihrEtyJCx8SnySd0_uPS7Fs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "145513428891-dqo1l782oq3u0r2hmd117aau14m1v192.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
